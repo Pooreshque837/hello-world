@@ -1,2 +1,3 @@
 # hello-world
-My first repository
+
+This is test repository, because I'm new in GitHub. You shouldn't be here.
